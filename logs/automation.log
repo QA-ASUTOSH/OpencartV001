@@ -1,0 +1,18 @@
+2026-01-29 01:46:03 [main] INFO  testCases.TC001_AccountRegistrationTest - "***** TC001_AccountRegistrationTest started *****"
+2026-01-29 01:46:04 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account
+2026-01-29 01:46:07 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register
+2026-01-29 01:46:07 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+2026-01-29 01:46:09 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+2026-01-29 01:46:09 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** TC001_AccountRegistrationTest finished *****
+2026-01-29 02:02:31 [main] INFO  testCases.TC001_AccountRegistrationTest - "***** TC001_AccountRegistrationTest started *****"
+2026-01-29 02:02:31 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account
+2026-01-29 02:02:32 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register
+2026-01-29 02:02:32 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+2026-01-29 02:02:34 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+2026-01-29 02:02:34 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** TC001_AccountRegistrationTest finished *****
+2026-01-29 02:12:00 [main] INFO  testCases.TC001_AccountRegistrationTest - "***** TC001_AccountRegistrationTest started *****"
+2026-01-29 02:12:01 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account
+2026-01-29 02:12:01 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register
+2026-01-29 02:12:01 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+2026-01-29 02:12:03 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+2026-01-29 02:12:03 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** TC001_AccountRegistrationTest finished *****
